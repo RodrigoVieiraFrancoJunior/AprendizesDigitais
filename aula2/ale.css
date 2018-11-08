@@ -1,0 +1,20 @@
+body{background-color: aqua}
+nav{display:block}
+body{background-image: url("hotel1.jpg")}
+    .textoespecial{font-size: 20px}
+    .textoespecial{color: blueviolet}
+
+    .parte1{
+        width: 100%;
+        height: vh15;
+        background-color: aqua;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+
+    }
+    
+    .parte2{
+        width: 100%;
+        
+    }
